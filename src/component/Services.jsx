@@ -3,7 +3,7 @@ import ServicesCard from './ServicesCard'
 
 const Services = () => {
   return (
-    <div className='p-8 pt-28  bg-gradient-to-r from-[#cae6f5] to-[#a4e9f1]'>
+    <div className='p-8 pt-28  bg-gradient-to-r bg-white'>
       <h1 className='text-3xl font-semibold text-center pb-10 mb-8'>Our Services</h1>
       <div className='grid grid-cols-2 md:grid-cols-4 gap-8 '>
         <ServicesCard

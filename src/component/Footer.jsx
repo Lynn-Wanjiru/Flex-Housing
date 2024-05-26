@@ -24,7 +24,7 @@ const Footer = () => {
               <a href="#" aria-label="Facebook" className='text-black hover:text-[#3361eb]'>
                 <FaFacebookF size={24} />
               </a>
-              <a href="#" aria-label='Twitter' className='text-black hover:text-backgroundcolor'>
+              <a href="#" aria-label='Twitter' className='text-black hover:text-blue-400'>
                 <FaTwitter size={24} />
               </a>
               <a href="#" aria-label='Instagram' className='text-black hover:text-[#833AB4]'>
